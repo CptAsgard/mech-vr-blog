@@ -17,7 +17,7 @@ First, I want to emphasize the physicality of everything. Your hands are physica
 In my opinion this gives it a very immersive feeling. I looked at HL: Alyx for inspiration in this. I also attach and pose the hand for the object you’re interacting with. 
 In the future I will be adding some more features to improve hand precision for interacting with the cockpit, and let mods pose the hand.
 
-<video src="" width="320" height="200" controls preload>https://user-images.githubusercontent.com/1854650/129532467-9276d9d8-f2bf-49a1-addb-cc354432ef8b.mp4</video>
+<video src="https://user-images.githubusercontent.com/1854650/129532467-9276d9d8-f2bf-49a1-addb-cc354432ef8b.mp4" width="320" height="200" controls preload></video>
 
 <br>
 
@@ -29,7 +29,7 @@ It lets you return your throttle to neutral without a small rest speed remaining
 
 The configuration of this will most likely be changeable in the Mech’s user interface, and it will be exposed to the mod side regardless.
 
-<video src="" width="320" height="200" controls preload>https://user-images.githubusercontent.com/1854650/129533655-dcea663f-8578-4ac5-8016-e0db2a9ed693.mp4</video>
+<video src="https://user-images.githubusercontent.com/1854650/129533655-dcea663f-8578-4ac5-8016-e0db2a9ed693.mp4" width="320" height="200" controls preload></video>
 
 <br>
 
@@ -37,7 +37,7 @@ The configuration of this will most likely be changeable in the Mech’s user in
 
 I then worked on the joystick control, giving it a similar physicality. 
 
-<video src="" width="320" height="200" controls preload>https://user-images.githubusercontent.com/1854650/129532855-b2904243-8276-4518-91a1-1aad34863ca4.mp4</video>
+<video src="https://user-images.githubusercontent.com/1854650/129532855-b2904243-8276-4518-91a1-1aad34863ca4.mp4" width="320" height="200" controls preload></video>
 
 <br>
 
@@ -45,7 +45,7 @@ I then worked on the joystick control, giving it a similar physicality.
 
 Of course, both controls can be combined into Mech movement!
 
-<video src="" width="320" height="200" controls preload>https://user-images.githubusercontent.com/1854650/129533812-ccdfea89-8be9-412e-8b87-ffe431f2c40b.mp4</video>
+<video src="https://user-images.githubusercontent.com/1854650/129533812-ccdfea89-8be9-412e-8b87-ffe431f2c40b.mp4" width="320" height="200" controls preload></video>
 
 <br>
 
@@ -55,7 +55,7 @@ But the plot twist is that the mech and control objects you see are not a part o
 This mod will be included in the base game and contains the content you’ll be playing. The mechs, weapons, game modes, maps, and missions will be part of the “CoreMod”. 
 It being a mod means that anyone will be able to create content for the game. 
 
-<video src="" width="320" height="200" controls preload>https://user-images.githubusercontent.com/1854650/129533545-bc7af1ef-92aa-406c-b837-5fad9e627210.mp4</video>
+<video src="https://user-images.githubusercontent.com/1854650/129533545-bc7af1ef-92aa-406c-b837-5fad9e627210.mp4" width="320" height="200" controls preload></video>
 
 <br>
 
