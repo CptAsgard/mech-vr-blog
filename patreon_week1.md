@@ -1,6 +1,6 @@
 ## Weekly Update - Week 1
 
-**NOTE:** _This is the first weekly update, which is usually reserved for Captain-level Patrons and higher. If you like what you see here, consider subscribing to my Patreon at patreon.com/mechvr. From here on out the weekly updates will no longer be public. I will instead post occasional public updates that are larger in scope and show less behind-the-scenes content. 
+**NOTE:** _This is a weekly update, which are usually reserved for Captain-level Patrons and higher. I am making it public to serve as an example. If you like what you see here, consider subscribing to my Patreon at patreon.com/mechvr. From here on out I will instead post occasional public updates that are larger in scope and show less behind-the-scenes content.
 Also consider joining the project Discord at discord.gg/qTYbdVfYmh if you’d like to talk about this project or ask me anything._
 
 Hey Patrons,
@@ -26,19 +26,19 @@ It lets you return your throttle to neutral without a small rest speed remaining
 
 The configuration of this will most likely be changeable in the Mech’s user interface, and it will be exposed to the mod side regardless.
 
-[ThrottleControl.webm]
+<video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
 
 ### Joystick control
 
 I then worked on the joystick control, giving it a similar physicality. 
 
-[JoystickControl.webm]
+<video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
 
 ### Mech movement
 
 Of course, both controls can be combined into Mech movement!
 
-[MechMovement.webm]
+<video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
 
 ### Mod support
 
@@ -46,7 +46,7 @@ But the plot twist is that the mech and control objects you see are not a part o
 This mod will be included in the base game and contains the content you’ll be playing. The mechs, weapons, game modes, maps, and missions will be part of the “CoreMod”. 
 It being a mod means that anyone will be able to create content for the game. 
 
-[ModProject.webm]
+<video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
 
 Also, the Mech “model” you see in the video simply represent the bounds of the smallest mech, about 13 meters. Creating more representative placeholder art will not be done the first month but will be a priority most likely soon after.
 
