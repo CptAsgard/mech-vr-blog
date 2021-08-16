@@ -9,7 +9,7 @@ First, I want to emphasize the physicality of everything. Your hands are physica
 In my opinion this gives it a very immersive feeling. I looked at HL: Alyx for inspiration in this. I also attach and pose the hand for the object you’re interacting with. 
 In the future I will be adding some more features to improve hand precision for interacting with the cockpit, and let mods pose the hand.
 
-[HandPhysics.webm]
+https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4
 
 Secondly, I worked on the throttle control. It has weight and snaps into 5 discrete positions: neutral, two forward, and two backward. 
 In my opinion this not only gives it a satisfying physicality, but it also gives you better control over the speed of your Mech. 
