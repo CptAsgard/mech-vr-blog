@@ -4,7 +4,6 @@
 
 _From here on out I will instead post occasional public updates that are larger in scope and show less behind-the-scenes content. Also consider joining the [Discord](http://discord.gg/qTYbdVfYmh) if you’d like to talk about this project or ask me anything._
 
-<br>
 
 Hey Patrons,
 
