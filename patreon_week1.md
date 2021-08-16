@@ -6,7 +6,7 @@ _From here on out I will instead post occasional public updates that are larger 
 
 Hey Patrons,
 
-To understand my plans for the first month of this project, please read this post on Patreon.
+To understand my plans for the first month of this project, please read [this post](https://www.patreon.com/posts/first-month-54959792) on Patreon.
 
 I have just finished my first week of work on this unnamed Mech VR project, and I’m overjoyed with the progress I’ve made. 
 My goals this week were to implement mod support, create the throttle and turn control, and connecting it to a Mech and making it move. This goal was achieved and more.
