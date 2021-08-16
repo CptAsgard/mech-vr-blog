@@ -1,6 +1,6 @@
 ## Weekly Update - Week 1
 
-**NOTE:** _This is a weekly update, which are usually reserved for Captain-level Patrons and higher. I am making it public to serve as an example. If you like what you see here, consider subscribing to my Patreon at [patreon.com/mechvr](https://www.patreon.com/mechvr)._ 
+**NOTE:** _This is a weekly update, which is usually reserved for Captain-level Patrons and higher. I am making it public to serve as an example. If you like what you see here, consider subscribing to my Patreon at [patreon.com/mechvr](https://www.patreon.com/mechvr)._ 
 
 _From here on out I will instead post occasional public updates that are larger in scope and show less behind-the-scenes content. Also consider joining the [Discord](http://discord.gg/qTYbdVfYmh) if you’d like to talk about this project or ask me anything._
 
