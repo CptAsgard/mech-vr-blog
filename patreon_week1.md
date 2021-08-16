@@ -1,4 +1,7 @@
-##Weekly Update - Week 1
+## Weekly Update - Week 1
+
+**NOTE:** _This is the first weekly update, which is usually reserved for Captain-level Patrons and higher. If you like what you see here, consider subscribing to my Patreon at patreon.com/mechvr. From here on out the weekly updates will no longer be public. I will instead post occasional public updates that are larger in scope and show less behind-the-scenes content. 
+Also consider joining the project Discord at discord.gg/qTYbdVfYmh if you’d like to talk about this project or ask me anything._
 
 Hey Patrons,
 
@@ -7,7 +10,7 @@ To understand my plans for the first month of this project, please read this pos
 I have just finished my first week of work on this unnamed Mech VR project, and I’m overjoyed with the progress I’ve made. 
 My goals this week were to implement mod support, create the throttle and turn control, and connecting it to a Mech and making it move. This goal was achieved and more.
 
-###Hand Physics
+### Hand Physics
 
 First, I want to emphasize the physicality of everything. Your hands are physical objects and everything in the cockpit will be too. 
 In my opinion this gives it a very immersive feeling. I looked at HL: Alyx for inspiration in this. I also attach and pose the hand for the object you’re interacting with. 
@@ -48,7 +51,3 @@ It being a mod means that anyone will be able to create content for the game.
 Also, the Mech “model” you see in the video simply represent the bounds of the smallest mech, about 13 meters. Creating more representative placeholder art will not be done the first month but will be a priority most likely soon after.
 
 Talos
-
-### NOTE
-_This is the first weekly update, and these are usually reserved for Captain-level Patrons and higher. If you like what you see here, consider subscribing to my Patreon at patreon.com/mechvr. From here on out the weekly updates will no longer be public. I will instead post occasional public updates that are larger in scope and show less behind-the-scenes content. 
-Also consider joining the project Discord at discord.gg/qTYbdVfYmh if you’d like to talk about this project or ask me anything._
