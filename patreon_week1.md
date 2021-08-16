@@ -4,6 +4,8 @@
 
 _From here on out I will instead post occasional public updates that are larger in scope and show less behind-the-scenes content. Also consider joining the Discord if you’d like to talk about this project or ask me anything._
 
+<br>
+
 Hey Patrons,
 
 To understand my plans for the first month of this project, please read this post on Patreon.
@@ -19,6 +21,8 @@ In the future I will be adding some more features to improve hand precision for 
 
 <video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
 
+<br>
+
 ### Throttle control
 
 Secondly, I worked on the throttle control. It has weight and snaps into 5 discrete positions: neutral, two forward, and two backward. 
@@ -29,17 +33,23 @@ The configuration of this will most likely be changeable in the Mech’s user in
 
 <video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
 
+<br>
+
 ### Joystick control
 
 I then worked on the joystick control, giving it a similar physicality. 
 
 <video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
 
+<br>
+
 ### Mech movement
 
 Of course, both controls can be combined into Mech movement!
 
 <video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
+
+<br>
 
 ### Mod support
 
@@ -48,6 +58,8 @@ This mod will be included in the base game and contains the content you’ll be 
 It being a mod means that anyone will be able to create content for the game. 
 
 <video src="https://user-images.githubusercontent.com/1854650/129530107-0da64120-5587-4470-b129-c9797e8318b4.mp4" width="320" height="200" controls preload></video>
+
+<br>
 
 Also, the Mech “model” you see in the video simply represent the bounds of the smallest mech, about 13 meters. Creating more representative placeholder art will not be done the first month but will be a priority most likely soon after.
 
