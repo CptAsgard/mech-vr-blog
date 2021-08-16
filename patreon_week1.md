@@ -41,11 +41,7 @@ The configuration of this will most likely be changeable in the Mech’s user in
 
 I then worked on the joystick control, giving it a similar physicality. 
 
-<video src="
-
-https://user-images.githubusercontent.com/1854650/129536195-d0831dbc-8cc3-4320-ad33-f2f42305ce13.mp4
-
-" width="320" height="200" controls preload></video>
+<video src="https://user-images.githubusercontent.com/1854650/129536863-6954cd50-e674-4b40-aee5-89c76586c0c6.mp4" width="320" height="200" controls preload></video>
 
 <br>
 
