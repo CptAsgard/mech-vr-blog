@@ -11,6 +11,8 @@ To understand my plans for the first month of this project, please read [this po
 I have just finished my first week of work on this unnamed Mech VR project, and I’m overjoyed with the progress I’ve made. 
 My goals this week were to implement mod support, create the throttle and turn control, and connecting it to a Mech and making it move. This goal was achieved and more.
 
+<br>
+
 ### Hand Physics
 
 First, I want to emphasize the physicality of everything. Your hands are physical objects and everything in the cockpit will be too. 
@@ -37,7 +39,11 @@ The configuration of this will most likely be changeable in the Mech’s user in
 
 I then worked on the joystick control, giving it a similar physicality. 
 
-<video src="https://user-images.githubusercontent.com/1854650/129532855-b2904243-8276-4518-91a1-1aad34863ca4.mp4" width="320" height="200" controls preload></video>
+<video src="
+
+https://user-images.githubusercontent.com/1854650/129536195-d0831dbc-8cc3-4320-ad33-f2f42305ce13.mp4
+
+" width="320" height="200" controls preload></video>
 
 <br>
 
